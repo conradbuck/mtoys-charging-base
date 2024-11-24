@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "charging-base rev1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
