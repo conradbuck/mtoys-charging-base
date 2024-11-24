@@ -1,0 +1,3 @@
+input power barrel jack 	C136744		https://www.lcsc.com/datasheet/lcsc_datasheet_2410010003_Korean-Hroparts-Elec-DC-005-20A_C136744.pdf
+op-amp amplifier		C9418		https://www.lcsc.com/datasheet/lcsc_datasheet_1810181110_STMicroelectronics-LM358DT_C9418.pdf
+LED NMOS transistor		C347475		https://www.lcsc.com/datasheet/lcsc_datasheet_2410010301_UMW-Youtai-Semiconductor-Co---Ltd--AO3400A_C347475.pdf
