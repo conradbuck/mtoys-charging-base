@@ -829,6 +829,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid aca61019-3d00-49c6-abfb-94be385738d5)
   )
+  (text "What is max current draw of dino?\nWhat is current draw of dino when chargning is done?\nDoes current draw change if dino is switched on or switched off?\nDoes the raspi load the source, or is the only load on this circuit the USB battery pack?"
+    (at 167.005 127.635 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b766a343-3e15-4493-ade4-61b41e1c1d39)
+  )
   (text "+5V MAX" (at 85.725 93.98 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid cdd41fbb-3128-4007-ac29-fd4b97f113b8)
