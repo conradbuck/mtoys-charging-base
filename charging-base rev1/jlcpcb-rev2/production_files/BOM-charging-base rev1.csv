@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+35mOhm,R3,R_1206_3216Metric,C5185598
+10K,R4,C_0603_1608Metric,
+PowerToDino,J2,PinHeader_1x02_P2.54mm_Vertical,
+1M,R2,C_0603_1608Metric,
+Barrel_Jack,J1,BarrelJack_Horizontal,C136744
+LED,D1,LED_D5.0mm,C883178
+220,R6,C_0603_1608Metric,
+10K,R1,C_0603_1608Metric,
+10,R5,C_0603_1608Metric,
+LM358_DFN,U1,DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm,C9418
+NMOS,Q1,SOT-23-3,C347475

@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED,LED_D5.0mm,186.25,-100.004999,90.0,top
+J1,Barrel_Jack,BarrelJack_Horizontal,114.125,-102.35,0.0,top
+J2,PowerToDino,PinHeader_1x02_P2.54mm_Vertical,149.98,-106.0,90.0,top
+Q1,NMOS,SOT-23-3,174.25,-100.0,0.0,top
+R1,10K,C_0603_1608Metric,130.475,-100.75,180.0,top
+R2,1M,C_0603_1608Metric,130.474999,-98.240001,180.0,top
+R3,250mOhm,R_1206_3216Metric,130.25,-105.75,0.0,top
+R4,10K,C_0603_1608Metric,166.975,-101.5,180.0,top
+R5,10,C_0603_1608Metric,166.95,-98.75,0.0,top
+R6,220,C_0603_1608Metric,180.0,-95.0,180.0,top
+U1,LM358_DFN,DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm,135.5,-99.9375,0.0,top
