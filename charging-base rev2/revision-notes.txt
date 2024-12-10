@@ -1,0 +1,5 @@
+-add info text to help with assembly
+-see if you can get LED placed on baord by JLC
+-enlarge holes on PCB for power connector solder point
+	-potentially make holes compatible with screw terminal
+	-find vertical SMD barrel jack (ask kevin from pamirAI)
